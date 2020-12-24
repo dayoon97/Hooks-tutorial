@@ -1,9 +1,8 @@
 import React from 'react';
-import Counter from './Counter';
-import Info from './Info';
+import ContextSample from './ContextSample';
 
 const App = () => {
-  return <Info />;
+  return <ContextSample />;
 };
 
 export default App;
